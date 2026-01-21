@@ -1,5 +1,5 @@
-# Tuku Coffee - Scrollytelling Experience ☕
-[PREVIEW] (<img width="2668" height="1534" alt="Tuku-Coffe" src="https://github.com/user-attachments/assets/8d7eca36-0d95-4344-bf81-956858fd0668" />)
+# Tuku Coffee - Landing Page ☕
+[PREVIEW] <img width="2668" height="1534" alt="Tuku-Coffe" src="https://github.com/user-attachments/assets/8d7eca36-0d95-4344-bf81-956858fd0668" />
 
 
 A high-performance, immersive scrollytelling landing page for **Tuku Coffee**, designed to tell the story of "Tetangga Tuku" through interactive visuals. Built with the latest web technologies including **Next.js 15**, **Tailwind CSS**, and **HTML5 Canvas**.
